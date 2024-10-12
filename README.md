@@ -1,6 +1,8 @@
 # pcie_mini_ultrascale-FPGA-IP
 An VHDL FPGA IP core to implement transaction layer logic for Xilinx Ultrascale PCIe hard-IP
 
+To download: Click the zip file, on the next page click "view raw" to download it.
+
 originally hosted (in 2019) at: 
 https://opencores.org/projects/pcie_mini_axi4s_wb
 Since the OpenCores.org admins have abandoned their website, and don't allow new users to register and download old projects (like this one), I, Istvan Nagy, the sole author, decided to re-release the project on GitHub. The new release is with a new, less restrictive license: "BSD zero clause", instead of the old LGPL. This will allow companies to use it in their product without restrictions or obligations.
